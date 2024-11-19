@@ -1,5 +1,10 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Eu+sou+o+Thyago!;Bem-vindo(a)+ao+meu+GitHub!" />
 
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=ThyagoVinfaso&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+🎓 Cursando **Engenharia de Software** na **Universidade Tecnológica Federal do Paraná**
+
+Aprendendo Python
 <!--
 **ThyagoVinfaso/ThyagoVinfaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
